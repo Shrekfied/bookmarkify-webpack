@@ -1,5 +1,5 @@
 {
-  "name": "bookmarkify-webpack"
+  "name": "bookmarkify-webpack",
   "version": "1.0.0",
   "description": "Webpack plugin that generates bookmarklets",
   "main": "index.js",
