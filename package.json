@@ -1,6 +1,6 @@
 {
   "name": "bookmarkify-webpack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bookmarkify is a webpack plugin that generates bookmarklets.",
   "main": "src/index.js",
   "scripts": {},
