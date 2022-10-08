@@ -1,0 +1,26 @@
+{
+  "name": "bookmarkify"
+  "version": "1.0.0",
+  "description": "Webpack plugin that generates bookmarklets",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinosoftorg/bookmarkify.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "bookmark",
+    "bookmarklet"
+  ],
+  "author": "dinosoftorg",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/dinosoftorg/bookmarkify/issues"
+  },
+  "homepage": "https://github.com/dinosoftorg/bookmarkify#readme",
+  "dependencies": {
+    "uglify-js": "^3.17.1"
+  }
+}
